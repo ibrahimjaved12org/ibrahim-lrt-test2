@@ -24,7 +24,9 @@
   "extra_course_numbers": "",
   "primary_course_number": "ibrahim-lrt-test2",
   "learning_resource_types": [
-    "Activity Assignments"
+    "Exam Materials",
+    "Labs",
+    "Music"
   ],
   "site_uid": "f0f990f6-0ca0-497b-a647-7b4618c44467",
   "site_short_id": "ibrahim-lrt-test2"
